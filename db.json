@@ -1,0 +1,85 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Sebastian",
+        "address": "Eschweiler",
+        "email": "sebastian@codingthesmartway.com",
+        "phone":"0094783322",
+        "status":"active"
+      },
+      {
+        "id": 2,
+        "name": "Steve",
+        "address": "Palmer",
+        "email": "steve@codingthesmartway.com",
+        "phone":"0094783322",
+        "status":"active"
+      },
+      {
+        "id": 3,
+        "name": "Ann",
+        "address": "Smith",
+        "email": "ann@codingthesmartway.com",
+        "phone":"0094783322",
+        "status":"active"
+      },
+      {
+        "id": 4,
+        "name": "Ritik",
+        "address": "Singh",
+        "email": "rk@coditway.com",
+        "phone":"4356783322",
+        "status":"active"
+      },
+      {
+        "id": 5,
+        "name": "Jack",
+        "address": "Jhonsan",
+        "email": "ok@codin.com",
+        "phone":"00989345",
+        "status":"unactive"
+      },
+      {
+        "id": 6,
+        "name": "Zee",
+        "address": "Will",
+        "email": "ZEE@.com",
+        "phone":"564651651",
+        "status":"active"
+      },
+      {
+        "id": 7,
+        "name": "Lokie",
+        "address": "adsen",
+        "email": "lokie@gmail.com",
+        "phone":"89756456321",
+        "status":"unactive"
+      },
+      {
+        "id": 8,
+        "name": "Disha",
+        "address": "agarwal",
+        "email": "disha@gmail.com",
+        "phone":"259784665",
+        "status":"active"
+      },
+      {
+        "id": 9,
+        "name": "Cybe",
+        "address": "Desh",
+        "email": "Cyba@gmail.com",
+        "phone":"56451623158",
+        "status":"unactive"
+      },
+      {
+        "id": 10,
+        "name": "Prashant",
+        "address": "Sharma",
+        "email": "pra@gmail.com",
+        "phone":"56873158",
+        "status":"active"
+      }
+  
+    ]
+  }
